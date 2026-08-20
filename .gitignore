@@ -1,5 +1,6 @@
 # Python
 __pycache__/
+*.pyc
 *.py[cod]
 *.so
 .Python
@@ -14,6 +15,9 @@ env/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Archives
+*.zip
 
 # IDE / OS
 .vscode/
