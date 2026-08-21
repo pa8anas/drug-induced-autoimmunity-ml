@@ -127,7 +127,8 @@ The **Random Forest** achieved the strongest overall balance between precision a
 ├── DIA_testset_RDKit_descriptors.csv
 ├── Drug_Induced_Autoimmunity_Prediction.ipynb
 ├── RDKit_ChemDes.xlsx
-├── report.pdf
+├── Drug_Induced_Autoimmunity_Report_EN.pdf
+├── Drug_Induced_Autoimmunity_Report_GR.pdf
 ├── requirements.txt
 ├── .gitignore
 ├── LICENSE
@@ -186,9 +187,14 @@ For an imbalanced drug-safety problem, particular attention is given to **Recall
 - Seaborn
 - Google Colab
 
-## Report
+## Reports
 
-The full academic report is included as `report.pdf` and documents the dataset, exploratory analysis, methodology, model comparison and conclusions.
+The repository includes both language versions of the academic report:
+
+- `Drug_Induced_Autoimmunity_Report_EN.pdf` — English version
+- `Drug_Induced_Autoimmunity_Report_GR.pdf` — Greek version
+
+Both reports document the dataset, exploratory data analysis, methodology, model comparison, results and conclusions.
 
 ## License
 
